@@ -1,7 +1,8 @@
 name: mirror.kci01.ipblacklist.org
 address:
-  http: http://mirror.kci01.ipblacklist.org/pub/almalinux/
-  https: https://mirror.kci01.ipblacklist.org/pub/almalinux/
+  http: http://mirror.kci01.ipblacklist.org/pub/almalinux
+  https: https://mirror.kci01.ipblacklist.org/pub/almalinux
+  rsync: rsync://mirror.kci01.ipblacklist.org/rocky
 geolocation:
   country: US
   state_province: MO
